@@ -28,7 +28,7 @@ SECRET_KEY = 'a4@m9kw$j)*xh8(sm+)b5_m8+o34qpp$7o*i2)e60kucpdr=)l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['webkidt.pythonanywhere.com',]
 
 
 # Application definition
